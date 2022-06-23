@@ -1,0 +1,8 @@
+site_name: "React-scaffold-test"
+site_description: "This is a test react template application"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

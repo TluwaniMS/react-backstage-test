@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "React-scaffold-test"
+  description: "This is a test react template application"
+  annotations:
+    github.com/project-slug: TluwaniMS/react-backstage-test
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "Vhatwanamba"
